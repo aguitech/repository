@@ -47,6 +47,11 @@ Ejemplos de animaciones desarrolladas con GSAP
 
 Librerías y JavaScripts necesarios para el manejo de los diferentes desarrollos
 
+- path /phpero
+
+Funciones y ejemplos de códigos realizados con PHP
+
+
 ### hector@aguitech.com
 
 #### @aguitech
