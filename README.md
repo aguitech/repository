@@ -35,11 +35,12 @@ Compendio de funciones con materialize
 Ejemplos de animaciones desarrolladas con GSAP
 
 - path /js
-\nLibrerías y JavaScripts necesarios para el manejo de los diferentes desarrollos
 
-# hector@aguitech.com
+Librerías y JavaScripts necesarios para el manejo de los diferentes desarrollos
 
-@aguitech
+### hector@aguitech.com
+
+#### @aguitech
 
 
 
