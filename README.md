@@ -7,6 +7,10 @@ la mayor cantidad de funcionalidad.
 
 # Diccionario de ejemplos
 
+- path /intro
+
+Bienvenida por medio de BodyMovin' plugin de After Effects para renderizar en 3d
+
 - path /thcss
 
 Estilos CSS avanzados
