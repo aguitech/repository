@@ -1,0 +1,240 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Victorgarcia</title>
+    <!-- Include jQuery (Lightbox Requirement) -->
+    <script type="text/javascript" src="jquery_lightbox/js/jquery-1.2.1.pack.js"></script>
+	<!-- Include Lightbox (Production) -->
+    <script type="text/javascript" src="jquery_lightbox/js/jquery.lightbox.packed.js"></script>
+	<!-- Include Lightbox (Development) -->
+    <!--<script type="text/javascript" src="jquery_lightbox/js/jquery.lightbox.js"></script>-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="victor.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+	margin-top: 0px;
+}
+a:link {
+	color: #999999;
+}
+a:visited {
+	color: #999999;
+}
+a:hover {
+	color: #999999;
+}
+a:active {
+	color: #999999;
+}
+-->
+</style>
+</head>
+
+<body>
+<table width="806" height="110%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="4" background="imgok/orillas.gif">&nbsp;</td>
+    <td width="710" valign="top"><table width="798" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+      <tr>
+        <td width="298" height="70"><img src="imgok/logo.jpg" width="190" height="70"></td>
+        <td width="181"><div align="left"><img src="imgok/idiomas_ch_esp.jpg" width="130" height="70" border="0" usemap="#Map"></div></td>
+        <td width="320"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="320" height="70">
+            <param name="movie" value="menuesp.swf">
+            <param name="quality" value="high">
+            <embed src="menuesp.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="320" height="70"></embed>
+        </object></td>
+      </tr>
+
+      <tr>
+        <td colspan="3"><div align="left"><img src="imgok/larga_gal.jpg" width="798" height="161"></div></td>
+      </tr>
+      <tr bgcolor="#1a1a1a">
+        <td height="100%" colspan="3">
+          <table width="100%" height="100%"  border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="3%" valign="top"><img src="imgok/separador.gif" width="35" height="5"></td>
+              <td width="25%" valign="top"><br>
+
+                  <img src="imgok/foto_gal.jpg" width="215" height="285"><br>
+                  <a href="gal_esp.php" class="textogral">Otras Series </a></td>
+              <td width="69%" valign="top"><div align="left">
+                  <p><span class="style5"><br>
+                      <span class="style9"><img src="imgok/tit_gal.jpg" width="200" height="65"><br>
+                      </span></span></p>
+                  <p><span class="subtitulos">&quot;dudas&quot;</span></p>
+                  <table width="97%" border="0" align="center" cellpadding="1" cellspacing="0">
+
+                                                            <tr>
+                                            <td width="51%" valign="top"><div align="center"><a rel="lightbox-myGroup" href="img/cuadros/duda I.jpg" title="duda 4"><img src="img/cuadros/opt/duda I.jpg" alt="" name="duda 4" border="2" style="border-color:#666666"></a><span class="subtitulos"><br>
+                                duda 4</span><br>
+                                <span class="textogral">acrilico</span><br>
+                                <span class="textogral">30*60</span><br>
+                                <span class="textogral">2006</span><br>
+                                <br>
+
+                      </div></td>
+                                                                                    <td width="51%" valign="top"><div align="center"><a rel="gal" href="img/cuadros/duda II.jpg" title="duda 3"><img src="img/cuadros/opt/duda II.jpg" alt="" name="duda 3" border="2" style="border-color:#666666"></a><span class="subtitulos"><br>
+                                duda 3</span><br>
+                                <span class="textogral">acrilico</span><br>
+                                <span class="textogral">30*60</span><br>
+                                <span class="textogral">2006</span><br>
+                                <br>
+
+                      </div></td>
+                                          </tr>
+                                                                                <tr>
+                                            <td width="51%" valign="top"><div align="center"><a rel="gal" href="img/cuadros/duda III.jpg" title="duda 2"><img src="img/cuadros/opt/duda III.jpg" alt="" name="duda 2" border="2" style="border-color:#666666"></a><span class="subtitulos"><br>
+                                duda 2</span><br>
+                                <span class="textogral">acrilico</span><br>
+                                <span class="textogral">30*60</span><br>
+
+                                <span class="textogral">2006</span><br>
+                                <br>
+                      </div></td>
+                                                                                    <td width="51%" valign="top"><div align="center"><a rel="gal" href="img/cuadros/duda IV.jpg" title="duda 1"><img src="img/cuadros/opt/duda IV.jpg" alt="" name="duda 1" border="2" style="border-color:#666666"></a><span class="subtitulos"><br>
+                                duda 1</span><br>
+                                <span class="textogral">acrilico</span><br>
+                                <span class="textogral">30*60</span><br>
+
+                                <span class="textogral">2006</span><br>
+                                <br>
+                      </div></td>
+                                          </tr>
+                                                            <tr>
+                      <td>&nbsp;</td>
+                    </tr>
+                  </table>
+
+                  <p>&nbsp;</p>
+                  <p>&nbsp;</p>
+                </div>
+                  
+                  <span class="subtitulos"> </span><span class="style6"><br>
+                </span></td>
+              <td width="3%" valign="top"><img src="imgok/separador.gif" width="35" height="5"></td>
+            </tr>
+            <tr>
+
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+              <td><br>
+                  <br></td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td colspan="2"><div align="center" class="linkch">
+
+                <div align="center"><a href="bio_esp.htm">biograf&iacute;a</a> | <a href="exp_esp.php">exposiciones</a> | <a href="con_esp.htm">contacto </a></div>
+              </div></td>
+              <td>&nbsp;</td>
+            </tr>
+          </table>
+
+          <p>&nbsp;</p></td>
+      </tr>
+    </table></td>
+    <td width="4" background="imgok/orillader.gif">&nbsp;</td>
+  </tr>
+  <tr valign="top">
+    <td height="5" colspan="3"><div align="center"><img src="imgok/orillaabajo.gif" width="800" height="10"></div></td>
+  </tr>
+</table>
+<div class="section header">
+	<p>
+		<span class="title"><a href="http://jquery.com/plugins/project/jquerylightbox_bal">jQuery Lightbox Plugin <em>(balupton edition)</em></a></span>
+		<span class="code">Examples &amp; Documentation.</span>
+	</p>
+</div>
+
+<div class="section">
+	<div class="desc">
+		<p>
+			<span class="title">Lightbox Tour</span>
+			<span class="code">Click the first image to begin the tour.</span>
+		</p>
+	</div>
+	<ul>
+		<li>
+			<a rel="lightbox-tour" href="sample/overview-large.jpg" title="Welcome to the jQuery Lightbox Plugin (balupton edition): This first set of images will go over some of the features with you.">
+				<img src="sample/overview-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-tour" href="sample/grass-large.jpg" title="Image information: As you would of noticed, when your mouse goes over the lightboxed image, the image's information then displays. Then when you rollover the image information, some extra (but not important) information is shown for the duration of the lightbox.">
+				<img src="sample/grass-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-tour" href="sample/lost-large.jpg" title="This part is the image title: This part is the image description. This information is obtained from the title attribute of the lightboxed element. The description is whatever follows the first ': ' if it exists within the title. The next image will have a empty title attribute to show you what happens.">
+				<img src="sample/lost-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-tour" href="sample/overview-large.jpg" >
+				<img src="sample/overview-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-tour" href="sample/beach-large.jpg" title="Only a title">
+				<img src="sample/beach-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-tour" href="sample/bamboo-large.jpg" title="New / Optimized Design: Balupton's edition of lightbox has a optimized design to achieve the overal goal of what lightbox is for. Lightboxes are used to display a image on the same page. So the darkened opacity, tiny padding around the image, and only the image initially, all help achieve this goal.">
+				<img src="sample/bamboo-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-tour" href="sample/lost-large.jpg" title="Also: notice how the prev / next buttons have been moved to the middle, as this is where your mouse and eyes typically are looking when you perform the mouseover.">
+				<img src="sample/lost-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-tour" href="sample/beach-large.jpg" title="Thanks!">
+				<img src="sample/beach-small.jpg" alt="" />
+			</a>
+		</li>
+	</ul>
+	<div class="clear"></div>
+</div>
+
+	
+<div class="section">
+	<div class="desc">
+		<p>
+			<span class="title">Common Use: <br />Automaticly create grouped lightboxes.</span>
+			<span class="code">&lt;a <span class="important">rel="lightbox-myGroup"</span> href="sample/mountain-large.jpg" &gt;</span>
+		</p>
+	</div>
+	<ul>
+		<li>
+			<a rel="lightbox-myGroup" href="sample/lost-large.jpg" >
+				<img src="sample/lost-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-myGroup" href="sample/beach-large.jpg" >
+				<img src="sample/beach-small.jpg" alt="" />
+			</a>
+		</li>
+		<li>
+			<a rel="lightbox-myGroup" href="sample/bamboo-large.jpg" >
+				<img src="sample/bamboo-small.jpg" alt="" />
+			</a>
+		</li>
+	</ul>
+	<div class="clear"></div>
+</div>
+<map name="Map">
+  <area shape="rect" coords="3,5,58,64" href="gal_deu.php">
+  <area shape="rect" coords="69,5,124,64" href="gal_eng.php">
+</map>
+</body>
+</html>
+
+

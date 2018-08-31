@@ -1,0 +1,3 @@
+[11-Jul-2018 18:06:40 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/haguilar/public_html/phpero/speaker-master/src/TextToSpeech.php on line 46
+[11-Jul-2018 18:06:46 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/haguilar/public_html/phpero/speaker-master/src/TextToSpeechInterface.php on line 17
+[11-Jul-2018 18:06:54 America/Chicago] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home/haguilar/public_html/phpero/speaker-master/src/TextToSpeechInterface.php on line 17

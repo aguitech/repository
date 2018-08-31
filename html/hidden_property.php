@@ -1,0 +1,1 @@
+ <p hidden>This paragraph should be hidden.</p> 
